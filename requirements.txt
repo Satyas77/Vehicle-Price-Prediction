@@ -1,0 +1,11 @@
+certifi==2021.10.8
+cycler==0.10.0
+kiwisolver @ file:///C:/ci/kiwisolver_1612282555033/work
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==1.0.5
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+python-dateutil==python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+wincertstore==0.2
